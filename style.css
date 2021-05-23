@@ -1,7 +1,9 @@
 *{
    background-color: blue;
-}
-#cabecera{
-   background-color: cornsilk;
+   text-align: center;
    
+}
+#cabecera h1{
+   background-color: cornsilk;
+   padding: 5px;
 }
